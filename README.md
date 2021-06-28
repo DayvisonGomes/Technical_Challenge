@@ -14,4 +14,5 @@ As bibliotecas necessárias são:
 <li>Tensorflow</li>
 <li>Sklearn</li>
 <li>Seaborn</li>
+<li>Imblearn</li>
 </ol>
