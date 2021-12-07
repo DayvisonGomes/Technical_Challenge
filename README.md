@@ -10,7 +10,7 @@ As bibliotecas necessárias são:
 <li>Pandas</li>
 <li>Numpy</li>
 <li>Matplotlib</li>
-<li>Cv2</li>
+<li>OpenCV</li>
 <li>Tensorflow</li>
 <li>Sklearn</li>
 <li>Seaborn</li>
